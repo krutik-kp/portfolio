@@ -2,11 +2,11 @@
 
 A simple portfolio starter theme built with Vue.js v3, Composition API and Tailwind CSS v3.
 
-![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/140909796-815239e4-a986-46ad-bbd0-4b166127bbb8.JPG)
+![Krutik-Portfolio](https://i.postimg.cc/jSS5km84/home.png)
 
-## Demo URL
+<!-- ## Demo URL
 
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
+[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com) -->
 
 ## Other versions of this project
 
@@ -74,7 +74,6 @@ npm run serve
 
 -   Always run `npm install` after pulling new changes
 -   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/realstoman). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
 -   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
 -   Images from [Unsplash](https://unsplash.com)
 -   Feel free to use it as your own portfolio
@@ -82,4 +81,4 @@ npm run serve
 
 ### License
 
-[MIT](https://github.com/realstoman/vuejs-tailwindcss-portfolio/blob/main/LICENSE)
+<!-- [MIT](https://github.com/realstoman/vuejs-tailwindcss-portfolio/blob/main/LICENSE) -->
