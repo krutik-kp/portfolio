@@ -49,7 +49,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
+https://github.com/krutik-kp/portfolio.git
 ```
 
 3. Open the project folder:
