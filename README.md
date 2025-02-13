@@ -2,7 +2,7 @@
 
 A simple portfolio starter theme built with Vue.js v3, Composition API and Tailwind CSS v3.
 
-![Krutik-Portfolio](https://i.postimg.cc/jSS5km84/home.png)
+![vuejs-tailwindcss-portfolio-Portfolio](https://i.postimg.cc/jSS5km84/home.png)
 
 <!-- ## Demo URL
 
