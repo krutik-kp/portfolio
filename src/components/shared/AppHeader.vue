@@ -93,7 +93,7 @@ export default {
 						/>
 						<img
 							v-else
-							src="@/assets/images/logo-dark-2.png"
+							src="@/assets/images/logo-dark-5.png"
 							class="w-36"
 							alt="Dark Logo"
 						/>
